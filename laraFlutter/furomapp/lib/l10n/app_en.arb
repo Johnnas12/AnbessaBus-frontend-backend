@@ -1,0 +1,129 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "current Language"
+    }, 
+
+    "welcome" : "Welcome To Anbessa City Bus", 
+    "@welcome": {
+        "description": "welcome to user"
+    }, 
+
+    "anbessa" : "Anbessa City Bus" , 
+    "@anbessa" :{
+        "description": "Anbessa"
+    },
+
+    "email" : "email" , 
+    "@email" :{
+        "description": "email field"
+    },
+
+    "password" : "password" , 
+    "@password" :{
+        "description": "password field"
+    }, 
+
+    "login" : "log In" , 
+    "@login" :{
+        "description": "log in button"
+    },
+
+    "tryourservices" : "wanna try our services" , 
+    "@tryourservices" :{
+        "description": "services"
+    }, 
+
+    "here" : "here you are" , 
+    "@here" :{
+        "description": "here you are"
+    }, 
+
+    
+    "start" : "Starting From" , 
+    "@start" :{
+        "description": "starting from"
+    },
+
+    
+    "departure" : "Departure" , 
+    "@departure" :{
+        "description": "destination"
+    }, 
+
+    "search" :  "Search Bus", 
+    "@search" : {
+        "description": "search bus"
+    }, 
+
+    "home" :  "Home", 
+    "@home" : {
+        "description": "Home"
+    }, 
+
+    "ticket" :  "Tickets", 
+    "@ticket" : {
+        "description": "Tickets"
+    }, 
+    "profile" :  "Profile", 
+    "@profile" : {
+        "description": "Profile"
+    }, 
+    "about" :  "About Us", 
+    "@about" : {
+        "description": "About us"
+    }, 
+    "report" :  "Report Lost", 
+    "@report" : {
+        "description": "Report Lost Item button"
+    }, 
+    "terms" :  "Terms", 
+    "@terms" : {
+        "description": "Terms of agreemnet"
+    }, 
+    "services" :  "Services", 
+    "@services" : {
+        "description": "services"
+    }, 
+    "developers" :  "Developers", 
+    "@developers" : {
+        "description": "Developers"
+    },  
+    
+    "version" :  "Version 1.0", 
+    "@version" : {
+        "description": "Version "
+    }, 
+    "name" :  "Full Name", 
+    "@name" : {
+        "description": "name "
+    }, 
+    "username" :  "username", 
+    "@username" : {
+        "description": "username"
+    }, 
+    "phone" :  "Phone Number", 
+    "@phone" : {
+        "description": "Phone Number"
+    }, 
+    "registerbtn" :  "Register", 
+    "@registerbtn" : {
+        "description": "Register button"
+    }, 
+    "register" :  "Register Yourself", 
+    "@register" : {
+        "description": "Register Page"
+    }, 
+    "backtologin" :  "Back to login", 
+    "@backtologin" : {
+        "description": "Back to login"
+    } 
+
+    
+
+
+
+    
+
+
+}

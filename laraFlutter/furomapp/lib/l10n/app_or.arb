@@ -1,0 +1,31 @@
+{
+    "Language" : "afaan", 
+    "welcome" : "Baga Nagaan gara baasii Anbassaa Dhuftan", 
+    "anbessa" : "baasii anbassaa", 
+    "email" : "imeelii", 
+    "password" : "jecha iccitii", 
+    "login": "seenaa",
+    "tryourservices" : "tajaajila keenya ni barbaaddu?", 
+    "here" : "Assit Galmaa'aa", 
+    "start": "ka'umsa", 
+    "departure": "deemsa", 
+    "search" : "baasii barbadi", 
+    "home": "Mana", 
+    "ticket": "Tikketii", 
+    "profile": "Ibsama", 
+    "about" : "waa'ee", 
+    "report": "gabaasaa", 
+    "terms" : "tarmoota", 
+    "services": "tajaajola", 
+    "developers" : "misoomsitoota", 
+    "version" : "gosa 1.0", 
+    "name" : "Maqaa", 
+    "username": "Maqaa Enyummaa", 
+    "phone": "lakkofsa bilbilaa", 
+    "registerbtn": "galmaa'aa", 
+    "register": "Fuula Galmee", 
+    "backtologin": "Gara login page Deebi'aa"
+
+
+
+}

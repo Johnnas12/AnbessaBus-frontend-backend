@@ -1,0 +1,30 @@
+{
+    "Language" : "ቋንቋ", 
+    "welcome" : "እንኳን ወደ አንበሳ ባስ በሰላም መጡ!", 
+    "anbessa" : "አንበሳ የከተማ አውቶብስ", 
+    "email" : "ኢ-ሜይል", 
+    "password" : "የይለፍ ቃል", 
+    "login": "ግባ",
+    "tryourservices" : "አገልግሎቶቻችንን መሞከር ይፈልጋሉ?", 
+    "here" : "እዚህ ይመዝገቡ!", 
+    "start": "መነሻ", 
+    "departure": "መድረሻ", 
+    "search" : "ባስ ፈልግ" ,
+    "home": "መነሻ ገጽ", 
+    "ticket": "ቲኬቶች", 
+    "profile": "መገለጫ"  ,
+    "about" : "ስለ ተቋማችን", 
+    "report": "ሪፖርት ያርጉ", 
+    "terms" : "ውሎች", 
+    "services": "አገልግሎታችን", 
+    "developers" : "ሶፍትዌር አበልጻጊ", 
+    "version" : "ስሪት", 
+    "name" : "ሙሉ ስም", 
+    "username": "የመለያ ስም", 
+    "phone": "ስልክ ቁጥር", 
+    "registerbtn": "ይመዝገቡ", 
+    "register": "መመዝገብያ ገጽ",
+    "backtologin": "ወደ መግብያ ገጽ ይመለሱ"
+
+
+}
